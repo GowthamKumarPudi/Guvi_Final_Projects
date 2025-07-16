@@ -1,5 +1,13 @@
 # Spotify_Recommendation_System
 
+NAME : GOWTHAM KUMAR PUDI
+
+DOMAIN : DATA SCIENCE
+
+BATCH : DW73
+
+LINKEDIN URL : https://www.linkedin.com/posts/gowtham-kumar-pudi07_spotify-recommendersystem-machinelearning-activity-7351280665226633216-4Pl8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJJIY4B6kabq7JfqxTZWqnn-0M3qqqTA6E
+
 Project 1
 
 This dataset comprises Spotify tracks spanning across 125 diverse genres. Every track includes
