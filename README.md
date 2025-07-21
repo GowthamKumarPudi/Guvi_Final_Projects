@@ -94,3 +94,17 @@ varies between 3 to 7, representing time signatures from 3/4 to 7/4.
 Sources and Methodology:
 
 The data was collected and cleaned using Spotify's Web API and Python.
+
+Project 2
+
+https://www.kaggle.com/datasets/meastanmay/nbfi-vehicle-loan-repayment-dataset/data
+
+An NBFC, which provides financial services akin to banks but isn't regulated as one, is
+experiencing profit challenges due to an uptick in defaults on vehicle loans. To mitigate this, the
+company aims to evaluate clients' loan repayment capacity and understand the key factors
+influencing their ability to repay. The goal is to develop a predictive model using the
+Train_Dataset and validate it on the Test_Dataset to forecast whether clients are likely to
+default on their vehicle loan payments. These predictions will be submitted to a Hackathon
+platform for assessment.
+
+Linkedin:- https://www.linkedin.com/posts/gowtham-kumar-pudi07_datascience-machinelearning-streamlit-activity-7353058411615350786-OROW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJJIY4B6kabq7JfqxTZWqnn-0M3qqqTA6E
