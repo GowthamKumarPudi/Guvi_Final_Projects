@@ -1,4 +1,4 @@
-# Spotify_Recommendation_System
+# Guvi_Final_Projects
 
 NAME : GOWTHAM KUMAR PUDI
 
@@ -108,3 +108,60 @@ default on their vehicle loan payments. These predictions will be submitted to a
 platform for assessment.
 
 Linkedin:- https://www.linkedin.com/posts/gowtham-kumar-pudi07_datascience-machinelearning-streamlit-activity-7353058411615350786-OROW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJJIY4B6kabq7JfqxTZWqnn-0M3qqqTA6E
+
+Project 3
+
+Dataset:- https://www.kaggle.com/competitions/salary-prediction-for-job-postings
+
+This project aims to predict the mean salary of US-based job listings using structured and unstructured features from a publicly available dataset. The model is trained using machine learning techniques and designed to be deployed via a simple Streamlit web app for interactive usage.
+
+
+Project Structure:
+
+usjobs_train.csv: Training data with salary labels.
+
+usjobs_test.csv: Test data used for inference.
+
+usjobs_sample_submission.csv: Sample submission format for prediction output.
+
+model_training.ipynb: Notebook used to preprocess, train, and evaluate the model.
+
+app.py: Streamlit web application to interact with the trained model.
+
+usjobs_final_submission.csv: Output predictions submitted to Kaggle.
+
+
+Key Features:
+
+Data Preprocessing: Handles missing values, drops high-sparsity columns, and processes text-based fields.
+
+
+Feature Engineering:
+
+One-hot encoding for categorical variables (State, Sector, Jobs_Group, etc.).
+
+TF-IDF transformation on the Skills column to capture relevant technical terms.
+
+Model: Random Forest Regressor, selected for its performance and interpretability on tabular data.
+
+Evaluation: RMSE used as the performance metric.
+
+Deployment: A user-friendly Streamlit app allows real-time predictions based on user input.
+
+
+Model Performance:
+Trained on 33,248 samples.
+
+Achieved strong performance on internal validation using RMSE.
+
+Model robust to missing and noisy data through consistent preprocessing.
+
+🛠 Future Work:
+
+Model optimization via hyperparameter tuning.
+
+Experiment with NLP models (e.g., BERT embeddings) on unstructured text like job titles or descriptions.
+
+Deploy on Hugging Face or Dockerize for cloud hosting.
+
+Linkedin: 
