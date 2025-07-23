@@ -164,4 +164,4 @@ Experiment with NLP models (e.g., BERT embeddings) on unstructured text like job
 
 Deploy on Hugging Face or Dockerize for cloud hosting.
 
-Linkedin: 
+Linkedin: https://www.linkedin.com/posts/gowtham-kumar-pudi07_datascience-machinelearning-streamlit-activity-7353058411615350786-OROW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJJIY4B6kabq7JfqxTZWqnn-0M3qqqTA6E
